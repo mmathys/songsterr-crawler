@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/mmathys/songsterr-crawler#readme",
   "dependencies": {
-    "songsterr": "^2.0.2"
+    "async": "^2.0.0-rc.3",
+    "html-entities": "^1.2.0",
+    "lodash": "^4.9.0",
+    "mongodb": "^2.1.16",
+    "songsterr": "^2.0.6"
   }
 }
