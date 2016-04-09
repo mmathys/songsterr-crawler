@@ -9,7 +9,7 @@ Node script for crawling all the tab data from songsterr in the Guitar Pro Forma
 ## How to run it
 
 - NPM install all dependencies `npm i`
-- Run it with ´DEBUG=crawler node crawler.js´
+- Run it with `DEBUG=crawler node crawler.js`
 
 ## What it does
 
