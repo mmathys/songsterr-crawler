@@ -51,7 +51,7 @@ function crawler() {
     var max = res;
     var currentId = 1;
 
-    async.timesLimit(max+1, 20, function(currentId, next){
+    async.timesLimit(max+1, 30, function(currentId, next){
       if(currentId==0){next();return;}
       //debug(currentId, "starting...")
       songsterr.getTabBySongId(currentId, function(err, res){
