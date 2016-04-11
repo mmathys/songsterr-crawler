@@ -1,5 +1,12 @@
-# ignore GP5 GP4 GP3 GP2 GP1
-gp5
+# ignore GP5 GP4 GP3 GP2 G1 midi dat aiff
+*.gp1
+*.gp2
+*.gp3
+*.gp4
+*.gp5
+*.midi
+*.dat
+*.aiff
 
 # Logs
 logs
