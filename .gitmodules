@@ -1,0 +1,3 @@
+[submodule "biaxial-rnn-music-composition"]
+	path = biaxial-rnn-music-composition
+	url = git@github.com:hexahedria/biaxial-rnn-music-composition.git
