@@ -18,12 +18,14 @@
   "homepage": "https://github.com/mmathys/songsterr-crawler#readme",
   "dependencies": {
     "async": "^2.0.0-rc.3",
+    "csv-to-array": "^1.0.2",
     "debug": "^2.2.0",
     "html-entities": "^1.2.0",
     "lodash": "^4.9.0",
     "minimist": "^1.2.0",
     "mongodb": "^2.1.16",
     "mongoose": "^4.4.12",
-    "songsterr": "^2.0.6"
+    "songsterr": "^2.0.6",
+    "yargs": "^4.7.1"
   }
 }

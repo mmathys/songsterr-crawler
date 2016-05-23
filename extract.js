@@ -40,7 +40,6 @@ Song.find({'artist.name': 'Ajattara'}, function(err, res){
     _.each(res, function(song){
       var midiPath = "./midi/" + _.split(song.gp5, '.')[0] + ".midi"
       debug(midiPath)
-      
     });
   }else{
     debug('error when retrieving shit')
