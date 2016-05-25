@@ -65,9 +65,6 @@ require("csv-to-array")({
 
     console.log(out)
 
-
-
-
   }else{
     //debug shit
   }
